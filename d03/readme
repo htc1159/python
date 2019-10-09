@@ -1,0 +1,15 @@
+1. 字符编码  ascii unicode utf8
+
+	ord 字符转十进制数组
+	chr 十进制转字符
+	
+	encode 字符转字节
+	decode	字节转字符
+
+	len 计算字符长度
+
+2. 格式化
+
+	%s %d %f %x  
+
+	format 替换{xx}占位符
