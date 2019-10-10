@@ -27,5 +27,33 @@ print(a)
 print(users)
 # 删出集合中指定下标的元素
 b = users.pop(2)
-print(b)
 print(users)
+
+
+#元素替换
+
+users[0]='replace'
+
+print(users)
+
+#集合中也可以包含集合，类似二位数组
+users[1]=['jack','tom']
+
+print(users)
+
+print(users[1][0])
+
+#tuple 有序不可变集合
+
+classmates=('Michael','Bob','Tracy')
+
+print(classmates)
+
+
+L=[['Apple','Google','Microsoft'],['Java','Python','Ruby','PHP'],['Adam','Bart','Lisa']]
+
+print (L[0][0])
+
+print(L[1][1])
+
+print(L[2][2])
