@@ -1,0 +1,8 @@
+1. for循环 for a in xx :
+
+2. while 循环 while xx :
+
+3. break 跳出循环
+
+4. continue 跳过当前循环，进行下一次循环
+
