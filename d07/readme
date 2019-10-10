@@ -1,0 +1,10 @@
+1.dict 也就是map key 是唯一的
+	dict={key:value,xx:xx}
+	xx in dict 判断key xx 是否在dict中
+	dict.pop('xx') 取出key为xx 的值
+
+2.set 无序 唯一
+	a=set(['a','b','c'])
+	a.add('d') 添加元素
+	a.remove('c') 删除元素
+
