@@ -49,3 +49,14 @@ print(s)
 #s.add(t2)
 
 #print(s)
+
+
+s1 = set([1,2,3,1,2,3])
+print(s1)
+
+s2 = set([2,3,4])
+
+# 并集
+print (s1&s2)
+# 交集
+print (s1|s2)

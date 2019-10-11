@@ -1,0 +1,9 @@
+1. function 
+	abs 取绝对值
+	max 取最大值
+	hex 取hash值
+	int 转为int
+	float 转为浮点数
+	str 转为字符串
+	bool 转为布尔值
+
